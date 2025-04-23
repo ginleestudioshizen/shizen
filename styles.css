@@ -156,6 +156,7 @@ label {
     margin-bottom: 3px;
     font-size: 14px;
     color: black;
+    font-weight: 700; /* Changed from normal to bold */
 }
 
 input {
@@ -376,7 +377,7 @@ input::placeholder {
 
 #lost-person-container label {
     text-align: left;
-    font-weight: 500;
+    font-weight: 700; /* Explicitly setting bold for dashboard labels */
     margin-bottom: 5px;
 }
 
